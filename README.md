@@ -117,8 +117,7 @@ Each task produces one PNG chart saved in `outputs/`:
 - `task7_heatmap.png` — Heatmap: Region × Category matrix
 - `task8_dashboard.png` — 4-panel KPI dashboard
 
-## 👤 Author
-Your Name — [your-email@example.com]
 
-## 📄 License
-MIT License
+Your Name — S Ayyasamulu
+
+
