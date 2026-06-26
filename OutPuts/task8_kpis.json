@@ -1,0 +1,14 @@
+{
+  "Total Records": 600,
+  "Total Sales ($)": 611271.62,
+  "Total Profit ($)": 110300.28,
+  "Overall Profit Margin (%)": 18.04,
+  "Avg Order Value ($)": 1018.79,
+  "Best Region by Profit": "Central",
+  "Worst Region by Profit": "East",
+  "Best Category by Sales": "Office Supplies",
+  "Best Category by Profit": "Technology",
+  "Best Quarter by Sales": "Q3",
+  "Most Profitable Month": "August",
+  "Low Margin Orders (<10%)": 95
+}
